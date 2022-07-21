@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @prothomacharjee
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning .Net 6
+- 💞️ I’m compitable with PHP (Codeigniter, Laravel)
+- 🌱 I’m can also work with .Net Framework
 - 💞️ I’m looking to collaborate on Software Industries
 - 📫 You can reach me on me.prothomacharjee@gmail.com
 
